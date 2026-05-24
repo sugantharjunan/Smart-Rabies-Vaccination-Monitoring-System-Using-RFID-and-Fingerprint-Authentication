@@ -258,6 +258,10 @@ Install these libraries from Arduino IDE Library Manager:
 * Firebase Realtime Database
 
 ---
+## 📄 License
 
+This project is licensed under the [MIT License](LICENSE).
+
+---
 
 If you found this project useful, give this repository a ⭐ on GitHub.
